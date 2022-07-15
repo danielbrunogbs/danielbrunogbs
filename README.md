@@ -1,6 +1,6 @@
 ## Olá, seja muito bem-vindo ao meu perfil! :wave:
 
-Me chamo **Daniel Bruno**, sou Desenvolvedor de Sistemas, atuo na área de **Meios de Pagamentos Eletrônicos** na [Paynet Captura de Transações e Sistemas LTDA](https://www.linkedin.com/company/paynet-captura-de-transa%C3%A7%C3%B5es-e-sistemas-ltda/), desenvolvendo aplicações para captura de transações no padrão de mensageria ISO 8583 e gestão financeira, utilizando as Linguagens **PHP** e **Javascript**.
+Me chamo **Daniel Bruno**, sou Desenvolvedor de Sistemas, atuo na área de **Meios de Pagamentos Eletrônicos**, desenvolvendo aplicações para captura de transações no padrão de mensageria ISO 8583 e gestão financeira, utilizando as Linguagens **PHP** e **Javascript**.
 
 Mas não acaba por aqui, tenho conhecimento em outras tecnologias também:
 
